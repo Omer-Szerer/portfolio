@@ -16,9 +16,7 @@ function About() {
             <h1 data-test-id="pageTitle" className="title">
               About
             </h1>
-            <p className="description">
-              About me? What about you?
-            </p>
+            <p className="description">About me? What about you?</p>
           </div>
         </div>
       </section>
