@@ -5,7 +5,7 @@ function Portfolio() {
   return (
     <>
       <Head>
-        <title>Portfolio</title>
+        <title>Omer's Portfolio</title>
       </Head>
 
       <Navbar />
@@ -14,10 +14,10 @@ function Portfolio() {
         <div className="container">
           <div className="text-wrapper w-full">
             <h1 data-test-id="pageTitle" className="title">
-              Portfolio
+              Omer's Portfolio
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in.
+              Yeah juhu let's go.
             </p>
 
             <div className="portfolio-wrapper">
